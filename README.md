@@ -1,7 +1,7 @@
 # Shortest path prediction with multiple stops using reinforcement learning
 
 # What it is and how it works : 
-This project was inspired by Dr. Daniel Soper. The original program was designed only for a single stop.  
+This project was inspired by Dr. Daniel Soper youtube video <a text="Q-Learning: A Complete Example in Python", https://www.youtube.com/watch?v=iKdlKYG78j4&ab_channel=Dr.DanielSoper>. The original program was designed only for a single stop.  
 <br>
 The program finds the shortest path from a starting point to all the stops marked on the map. It finds the shortest path between the starting point to the nearest stop and then updates that stop as the next starting point and finds the next nearest stop. This process is repeated till all stops have been covered. 
 
