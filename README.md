@@ -1,1 +1,1 @@
-# shorted-path-prdiction-with-multiple-stops-using-reinforcement-learning
+# Shortest path prediction with multiple stops using reinforcement learning
